@@ -1,3 +1,6 @@
 [submodule "zxing"]
 	path = zxing
 	url = https://github.com/zxing/zxing.git
+[submodule "code/Vendor"]
+	path = code/Vendor
+	url = https://github.com/zxing/zxing.git
