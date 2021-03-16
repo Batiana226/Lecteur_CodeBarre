@@ -1,0 +1,3 @@
+[submodule "code/vendors"]
+	path = code/vendors
+	url = https://github.com/ftylitak/qzxing.git
