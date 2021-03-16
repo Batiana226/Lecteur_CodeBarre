@@ -33,3 +33,6 @@ else: unix:!android: target.path = /opt/$${TARGET}/bin
 
 RESOURCES += \
     ../../image.qrc
+
+DISTFILES += \
+    ../../../../../media/batiana/UBUNTU 20_0/TheSurgicalCompany/2020-12-16_09h06/DSC00002.jpg
